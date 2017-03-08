@@ -43,5 +43,5 @@ TODO: Add long description of the pod here.
   s.dependency 'RxCocoa'
   s.dependency 'Moya/RxSwift'
   s.dependency 'NSObject+Rx'
-  s.dependency 'Moya-SwiftyJSONMapper'
+  s.dependency 'Moya-SwiftyJSONMapper/RxSwift'
 end
