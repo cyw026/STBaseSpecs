@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'STBase/Classes/**/*', 'STBase/Extensions/**/*'
+  s.source_files = ['STBase/Classes/**/*', 'STBase/Extensions/**/*']
   
   # s.resource_bundles = {
   #   'STBase' => ['STBase/Assets/*.png']
